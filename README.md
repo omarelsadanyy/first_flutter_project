@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# About The Code
+
+-basic app with two images and a text below them all in the center
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
